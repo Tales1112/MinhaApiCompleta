@@ -1,0 +1,15 @@
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.dll
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.dll
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.runtimeconfig.json
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\bin\Release\netcoreapp2.2\DevIO.Data.runtimeconfig.dev.json
+C:\Users\tales.silva\Desktop\Curso\src\DevIO.Data\obj\Release\netcoreapp2.2\DevIO.Data.genruntimeconfig.cache

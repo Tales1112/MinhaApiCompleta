@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DevIO.Business": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

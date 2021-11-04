@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DevIo.Testes": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
